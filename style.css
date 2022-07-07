@@ -1,0 +1,13 @@
+body {
+    font-size: 15pt;
+  background-color: navajowhite;
+}
+
+#p_1{
+  color:red;
+  background-color:teal; 
+  border:3px solid aquamarine;
+}
+#p1{
+  color: darkgreen;
+}
