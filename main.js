@@ -10,6 +10,8 @@ countries.push("china");
 console.log(countries);
 countries.sort();   // .reverse& .sort are given same output
 console.log(countries);
+countries.pop();
+console.log(countries);
 var length_ofCountries=countries.length;
 console.log(length_ofCountries);
 var third_last_country=countries[length_ofCountries-3]; 
@@ -26,7 +28,3 @@ var char_ofcountry=last_country.charAt(len_lastCOUNTRY-1);
 console.log(char_ofcountry);
 var charcode_ofcountry=last_country.charCodeAt(len_lastCOUNTRY-1);
 console.log(charcode_ofcountry);
-countries.splice(1,0,"FRANCE");
-console.log(countries);
-countries.pop();
-console.log(countries);
