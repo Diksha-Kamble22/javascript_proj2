@@ -30,5 +30,3 @@ countries.splice(1,0,"FRANCE");
 console.log(countries);
 countries.pop();
 console.log(countries);
-const numbers=["44","33","75","85","97","78"];
-console.log(numbers);
