@@ -43,7 +43,7 @@ function display_second_country(){
 console.log(secondCOUNTRY);                                                      
 const numbers=["22","44","76","87"];
 console.log(numbers);
-
+var no_keys=""
 
 
 
